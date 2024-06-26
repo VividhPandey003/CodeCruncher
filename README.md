@@ -21,6 +21,7 @@ Personal Collection of LeetCode questions to get started with DSA!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VividhPandey003/CodeCruncher/tree/master/0031-next-permutation) |
+| [0908-middle-of-the-linked-list](https://github.com/VividhPandey003/CodeCruncher/tree/master/0908-middle-of-the-linked-list) |
 # Hash Table
 |  |
 | ------- |
@@ -29,3 +30,7 @@ Personal Collection of LeetCode questions to get started with DSA!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VividhPandey003/CodeCruncher/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/VividhPandey003/CodeCruncher/tree/master/0908-middle-of-the-linked-list) |
