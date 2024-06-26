@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VividhPandey003/CodeCruncher/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/VividhPandey003/CodeCruncher/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/VividhPandey003/CodeCruncher/tree/master/0054-spiral-matrix) |
 # Matrix
@@ -19,3 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VividhPandey003/CodeCruncher/tree/master/0031-next-permutation) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/VividhPandey003/CodeCruncher/tree/master/0001-two-sum) |
