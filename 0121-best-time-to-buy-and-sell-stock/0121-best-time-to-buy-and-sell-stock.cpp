@@ -7,10 +7,7 @@ public:
         int n=prices.size();
         for( int i=0;i<n;i++)
         {
-            if(cheapest>prices[i])  
-            {
-                cheapest = prices[i];
-            }
+            cheapest = min(cheapest,prices[i]);
             profit = max(profit, (prices[i]-cheapest));
         }
         return profit;
