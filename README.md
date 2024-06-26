@@ -21,11 +21,13 @@ Personal Collection of LeetCode questions to get started with DSA!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VividhPandey003/CodeCruncher/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/VividhPandey003/CodeCruncher/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/VividhPandey003/CodeCruncher/tree/master/0908-middle-of-the-linked-list) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VividhPandey003/CodeCruncher/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/VividhPandey003/CodeCruncher/tree/master/0141-linked-list-cycle) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +35,5 @@ Personal Collection of LeetCode questions to get started with DSA!
 # Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/VividhPandey003/CodeCruncher/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/VividhPandey003/CodeCruncher/tree/master/0908-middle-of-the-linked-list) |
