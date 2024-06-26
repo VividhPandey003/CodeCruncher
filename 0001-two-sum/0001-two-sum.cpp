@@ -1,21 +1,23 @@
 #include <vector>
+#include <unordered_map>
 using namespace std;
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+
+        //using a map
+        unordered_map<int, int> mpp;
         int n = nums.size();
-        vector<int> soln;
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if ((nums[i] + nums[j]) == target) {
-                    soln.push_back(i);
-                    soln.push_back(j);
-                    return soln;
-                }
+            int a = nums[i];
+            int rem = target - a;
+            if (mpp.find(rem) != mpp.end()) {
+                return {mpp[rem],i};
             }
+            mpp[a] = i;
         }
-        // In case no solution is found, return an empty vector or handle the case as required.
-        return soln;
+        // If no solution is found, return an empty vector.
+        return {};
     }
 };
