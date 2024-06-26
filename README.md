@@ -1,5 +1,5 @@
 # CodeCruncher
-Collection of LeetCode questions to ace the coding interview!
+Personal Collection of LeetCode questions to get started with DSA!
 
 
 # Array
