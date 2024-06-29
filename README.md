@@ -37,3 +37,10 @@ Personal Collection of LeetCode questions to get started with DSA!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VividhPandey003/CodeCruncher/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/VividhPandey003/CodeCruncher/tree/master/0908-middle-of-the-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/VividhPandey003/CodeCruncher/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
