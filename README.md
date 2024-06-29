@@ -43,4 +43,12 @@ Personal Collection of LeetCode questions to get started with DSA!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VividhPandey003/CodeCruncher/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VividhPandey003/CodeCruncher/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VividhPandey003/CodeCruncher/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
