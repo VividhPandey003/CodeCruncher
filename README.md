@@ -51,4 +51,8 @@ Personal Collection of LeetCode questions to get started with DSA!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/VividhPandey003/CodeCruncher/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/VividhPandey003/CodeCruncher/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
